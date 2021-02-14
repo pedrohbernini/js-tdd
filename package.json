@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca curso de JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohbernini/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Pedro Bernini <pedrohbernini@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrohbernini/js-tdd/issues"
+  },
+  "homepage": "https://github.com/pedrohbernini/js-tdd#readme"
+}
