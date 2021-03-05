@@ -1,1 +1,3 @@
-export const wrapper = () => {}
+const wrapper = () => 'bla';
+
+export default wrapper;
