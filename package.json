@@ -10,6 +10,11 @@
     "test:tdd": "npm test -- --watch",
     "test:coverage": "nyc npm test"
   },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run lint && npm run test:coverage"
+    }
+  },
   "nyc": {
     "functions": 80,
     "lines": 80,
